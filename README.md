@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCodeJava/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mirnajmin2006/LeetCodeJava/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/mirnajmin2006/LeetCodeJava/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCodeJava/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/mirnajmin2006/LeetCodeJava/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/mirnajmin2006/LeetCodeJava/tree/master/1603-design-parking-system) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCodeJava/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
